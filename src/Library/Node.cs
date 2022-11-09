@@ -10,7 +10,7 @@ namespace Library
 
         private List<Node> children = new List<Node>();
 
-        public int Person {
+        public Person Person {
             get
             {
                 return this.Person;
